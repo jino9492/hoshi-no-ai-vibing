@@ -18,6 +18,17 @@ namespace hoshi_no_ai_vibing
             }
             base.Dispose(disposing);
         }
+
+        protected override CreateParams CreateParams
+        {
+            get
+            {
+                CreateParams cp = base.CreateParams;
+                cp.ExStyle |= 0x80;
+                return cp;
+            }
+        }
+
         private void InitializeComponent()
         {
             string gifPath = Application.StartupPath + "/Resources/ai.gif";

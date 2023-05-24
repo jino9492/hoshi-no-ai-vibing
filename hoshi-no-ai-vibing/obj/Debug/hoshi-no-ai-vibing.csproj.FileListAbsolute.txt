@@ -14,3 +14,4 @@ C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\bin\Debug\hoshi
 C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Debug\hoshi_no_ai_vibing.Properties.Resources.resources
 C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Debug\hoshi-no-ai-vibing.exe
 C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Debug\hoshi-no-ai-vibing.pdb
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Debug\hoshi-no-ai-vibing.csprojAssemblyReference.cache
