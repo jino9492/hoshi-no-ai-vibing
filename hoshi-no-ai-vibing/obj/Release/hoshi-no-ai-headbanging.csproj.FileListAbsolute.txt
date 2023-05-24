@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\bin\Release\hoshi-no-ai-headbanging.exe.config
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\bin\Release\hoshi-no-ai-headbanging.exe
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\bin\Release\hoshi-no-ai-headbanging.pdb
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\obj\Release\hoshi_no_ai_headbanging.Properties.Resources.resources
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\obj\Release\hoshi-no-ai-headbanging.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\obj\Release\hoshi-no-ai-headbanging.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\obj\Release\hoshi-no-ai-headbanging.exe
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\obj\Release\hoshi-no-ai-headbanging.pdb

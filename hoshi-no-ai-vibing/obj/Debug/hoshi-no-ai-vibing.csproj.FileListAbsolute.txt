@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\bin\Debug\hoshi-no-ai-headbanging.exe.config
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\bin\Debug\hoshi-no-ai-headbanging.exe
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\bin\Debug\hoshi-no-ai-headbanging.pdb
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\obj\Debug\hoshi_no_ai_headbanging.Properties.Resources.resources
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\obj\Debug\hoshi-no-ai-vibing.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\obj\Debug\hoshi-no-ai-vibing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\obj\Debug\hoshi-no-ai-headbanging.exe
+C:\Users\User\source\repos\hoshi-no-ai-headbanging\hoshi-no-ai-headbanging\obj\Debug\hoshi-no-ai-headbanging.pdb
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Debug\hoshi-no-ai-vibing.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Debug\hoshi-no-ai-vibing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\bin\Debug\hoshi-no-ai-vibing.exe.config
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\bin\Debug\hoshi-no-ai-vibing.exe
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\bin\Debug\hoshi-no-ai-vibing.pdb
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Debug\hoshi_no_ai_vibing.Properties.Resources.resources
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Debug\hoshi-no-ai-vibing.exe
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Debug\hoshi-no-ai-vibing.pdb

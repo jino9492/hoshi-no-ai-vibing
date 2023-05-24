@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\bin\Release\hoshi-no-ai-vibing.exe.config
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\bin\Release\hoshi-no-ai-vibing.exe
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\bin\Release\hoshi-no-ai-vibing.pdb
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Release\hoshi_no_ai_vibing.Properties.Resources.resources
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Release\hoshi-no-ai-vibing.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Release\hoshi-no-ai-vibing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Release\hoshi-no-ai-vibing.exe
+C:\Users\User\source\repos\hoshi-no-ai-vibing\hoshi-no-ai-vibing\obj\Release\hoshi-no-ai-vibing.pdb
