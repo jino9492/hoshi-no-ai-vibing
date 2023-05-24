@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hoshi-no-ai-vibing", "hoshi-no-ai-headbanging\hoshi-no-ai-vibing.csproj", "{4DBCECFF-B746-49F4-BEEA-F67925767673}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hoshi-no-ai-vibing", "hoshi-no-ai-vibing\hoshi-no-ai-vibing.csproj", "{4DBCECFF-B746-49F4-BEEA-F67925767673}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9289252A-6495-4598-8E5F-5FD05133A2C6}
+		SolutionGuid = {4E133997-BD6E-4501-B7A3-7FAFE9BA92F3}
 	EndGlobalSection
 EndGlobal
