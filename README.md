@@ -1,6 +1,6 @@
 # hoshi-no-ai-vibing
 Just Vibing
 
-![ai](https://github.com/jino9492/hoshi-no-ai-vibing/assets/66864237/625bb264-b348-4a0a-81a3-528bd3cec381)
+![ai](https://github.com/jino9492/hoshi-no-ai-vibing/assets/66864237/679e4113-aa80-46fc-809e-a85f49a19379)
 
 Right Click To Quit Program.
